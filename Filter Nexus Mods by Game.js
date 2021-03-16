@@ -8,7 +8,7 @@
 // @match        https://www.nexusmods.com/mods/*
 // @match        https://www.nexusmods.com/*/search/*
 // @match        https://www.nexusmods.com/*/mods/*
-// @icon         https://www.google.com/s2/favicons?domain=nexusmods.com
+// @icon         
 // @grant        none
 // ==/UserScript==
 

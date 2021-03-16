@@ -3,7 +3,7 @@
 // @version      0.8
 // @namespace    WallhavenDownloader
 // @description  Add Download Button to wallhaven "Thumbs"
-// @author        ZeroDrako
+// @author       ZeroDrako
 // @include      http://wallhaven.cc/*
 // @include      https://wallhaven.cc/*
 // @grant        GM_xmlhttpRequest
